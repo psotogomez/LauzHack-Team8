@@ -1,11 +1,16 @@
 User: ![EPFL classroom](./classroom.jpg)
 
-AI: The image shows a conference room scene where several people are seated facing a large screen displaying a presentation slide titled "What is the biggest challenge in relationships between researchers and private foundations?" The slide includes a bar graph with different color bars representing various challenges, such as yellow, red, green, and purple. The audience—adults dressed in business and casual attire—seems attentive, with some taking notes. A panel consisting of four individuals is seated at the front. The background of the room has a
+AI: The image displays a conference or seminar scenario in a hall featuring a wooden arched ceiling. In the front, there is a panel discussion ongoing with five individuals seated at a table. There’s a large screen displaying a PowerPoint presentation, which includes a colorful bar graph and the question, "What is the biggest challenge in relationships between researchers and private Foundations?" The hall is filled with attendees seated at rectangular tables, most of whom are attentively watching the presentation and taking notes. The color scheme includes various tones
 
-User: Is there any seats empty where I can sit?
+User: How many people there are in the classroom?
 
-AI: In the image, there are a few empty seats available where you can sit. There are empty spots mostly near the back of the room. Some of these seats are dispersed among the rows, so you should be able to find a place without much difficulty.
+AI: Based on the context provided and the image, it appears there are approximately 40-50 people in the hall attending the conference or seminar.
 
-User: How many people you can see?
+User:Where I can find a place to sit?
 
-AI: Considering the provided context, I can see around 40 people in the conference room. Please let me know if you have any more specific questions or if you need help with anything else!
+AI: There appears to be some available seating towards the back of the hall. You might find empty chairs in the last few rows. If they are occupied, you can also look for any unclaimed spots at the tables where attendees have placed only their belongings like bags or jackets. Asking politely to share the table where seating is partially occupied is another option to consider.
+
+User:Is the teacher or anyone speaking?
+
+AI: Currently in the image, someone is speaking, presumably a teacher or presenter, as they stand in front of the large screen with a pointer or similar device in hand, addressing the panel and the audience.
+

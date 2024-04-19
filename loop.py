@@ -29,11 +29,11 @@ context = output
 while True:
     counter += 1 
     #2. Make a new question
-    user_input = input('Make a new question....')
+    user_input = input('\n Make a new question....\n User:')
     if user_input == "Z":
         break
     #3. Add to previuos conversarsation
-    prompt = f'Context: {context} \n Next Question: {user_input} \n Answer the next question taking into consideration the context provided'
+    prompt = f'Context: {context} \n Next Question: {user_input} \n Just answer the Next Question taking into consideration the context provided'
     context = context + f'\n {counter}. {user_input}'
     #4. Ask to the model with the full new context
     output = image_to_text(image_path, prompt)
