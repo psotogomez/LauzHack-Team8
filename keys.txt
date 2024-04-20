@@ -1,0 +1,9 @@
+TELEGRAM_KEY = ""
+HUGGING_FACE_KEY = ""
+OPENAI = ""
+
+## Dont Change
+
+SPEECH2TEXT = HUGGING_FACE_KEY
+TEXT2SPEECH = HUGGING_FACE_KEY
+INIT_PROMPT = "Image Description: Describe with a few words the image to the AI, providing enough context for understanding. Be descriptive and clear in your explanation. Response in with few words."
