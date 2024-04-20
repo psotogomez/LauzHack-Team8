@@ -8,7 +8,7 @@ def query(payload):
 	response = requests.post(API_URL, headers=headers, json=payload)
 	return response.content
 
-def text_to_speech(text: str, save: bool, save_path: str ='./', file_name: str ='audio.mp3') -> bytes:
+def text2speech(text: str, save: bool, save_path: str ='./', file_name: str ='audio.mp3') -> bytes:
     audio_bytes = query({
         "inputs": text,
     })
@@ -21,4 +21,4 @@ def text_to_speech(text: str, save: bool, save_path: str ='./', file_name: str =
 if __name__ == "__main__":
     text = "Hello, my name is John Doe. I am a software engineer."
 
-    audio_bytes = text_to_speech(text, save=True, save_path='./', file_name='output.mp3')
+    audio_bytes = text2speech(text, save=True, save_path='./', file_name='output.mp3')
