@@ -29,4 +29,9 @@ Still in conda env
 ```bash
  python demo.py
 ```
+## How to use the bot?
+
+1) you have to send a picture to the Telegram bot and he will firstly describe the image. 
+2) After you have received the response from the bot, you can ask any question related to the image in audio format.
+3) You can send any other picture to start a new conversation
 
