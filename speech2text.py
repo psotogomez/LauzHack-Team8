@@ -11,10 +11,11 @@ def query(filename):
     return response.json()
 
 def speech2text(filename: str) -> dict:
-    return query(filename)['text']
+    try:
+        return query(filename)['text']
+    except:
+        return "Error, please try question again."
 
 if __name__ == "__main__":
     output = speech2text("output.mp3")
     print(output)
-
-    
